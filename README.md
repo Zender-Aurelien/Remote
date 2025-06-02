@@ -6,5 +6,5 @@ This repo is for **GitHub training**
 
 ## Location / Time
 
-*Pace University
-*Summer 2025
+* Pace University
+* Summer 2025
